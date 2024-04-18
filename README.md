@@ -20,7 +20,10 @@ element on standard output device, i.e. computer screen.
 * In-order: 5, 10, 15, 20, 25, 30, 45
 
 
-Screenshot of working program
+
+
+
+**Screenshot of working program**
 
 ![](https://github.com/Gichbuoy/Data-Structures-Work/blob/main/screenshot/Screenshot%20(94).png)
 
