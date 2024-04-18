@@ -109,7 +109,7 @@ void printLevelOrder(struct TreeNode* root) {
 }
 
 int main() {
-    // Input data
+    // Input the data
     int inorder[] = {5, 10, 15, 20, 25, 30, 45};
     int postorder[] = {5, 15, 10, 25, 45, 30, 20};
     int n = sizeof(inorder) / sizeof(inorder[0]);
