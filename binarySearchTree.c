@@ -96,7 +96,7 @@ void printLevelOrder(struct TreeNode* root) {
             }
         }
 
-        // Dequeue next node
+        // Dequeue the next node
         if (front != NULL) {
             temp = front->data;
             struct Queue* old = front;
