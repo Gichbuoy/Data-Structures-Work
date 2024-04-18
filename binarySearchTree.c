@@ -81,7 +81,7 @@ void printLevelOrder(struct TreeNode* root) {
             }
         }
 
-        // Enqueue right child
+        // Enqueue the right child
         if (temp->right != NULL) {
             if (rear == NULL) {
                 rear = (struct Queue*)malloc(sizeof(struct Queue));
